@@ -4,7 +4,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "flow-bin": "^0.59.0",
-    "immutable": "^4.0.0-rc.9",
+    "immutable": "^4.3.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
